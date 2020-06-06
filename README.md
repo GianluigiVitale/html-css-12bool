@@ -1,11 +1,11 @@
 # Html-css-12bool
 12 columns layout made with HTML and CSS.
-
+***
 ### [Live Version](https://gianluigivitale.github.io/html-css-12bool/)
-
-_Preview-lg:_
+***
+### Preview-lg:
 ![Preview](img/preview-lg.jpg "Preview-lg")
-_Preview-md:_
+### Preview-md:
 ![Preview](img/preview-md.jpg "Preview-md")
-_Preview-xs:_
+### Preview-xs:
 ![Preview](img/preview-xs.jpg "Preview-xs")
